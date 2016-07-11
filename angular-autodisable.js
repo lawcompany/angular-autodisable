@@ -184,4 +184,6 @@
     };
   }]);
 
-})(angular);
+})(require('angular'));
+
+module.exports = exports = 'ngAutodisable';
